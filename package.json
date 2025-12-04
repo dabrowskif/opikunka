@@ -1,0 +1,16 @@
+{
+  "name": "@dabrowskif/opikunka",
+  "version": "1.0.0",
+  "license": "ISC",
+  "repository": "https://github.com/dabrowskif/opikunka",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "npx tsx ./src/index.ts",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.12",
+    "typescript": "^5.8.3",
+    "vitest": "^4.0.15"
+  }
+}
